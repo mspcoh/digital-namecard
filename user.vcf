@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Jimmy;Cheng;;;
-FN: Jimmy  Cheng 
+N:Ms;Oh;;;
+FN: Ms Oh
 ORG:The Roof Realty S/B;
 TITLE:Senior Real Estate Negotiator\nTAG Group
-EMAIL;type=INTERNET;type=WORK;type=pref:jimmy.roofrealty@gmail.com
-TEL;type=WORK;type=VOICE:+6012 3722 809
+EMAIL;type=INTERNET;type=WORK;type=pref:pc.roofrealty@gmail.com
+TEL;type=WORK;type=VOICE:+6012 6033 836
 item1.ADR;type=WORK;type=pref:;;Blk A-G-3 & A-2-3 Kuchai Exchange\n43, Jalan Kuchai Maju 13\nWilayah Persekutuan;;;58200;Kuala Lumpur
 item1.X-ABADR:my
-item2.URL;type=pref:jimmypropertylist.blogspot.com/
+item2.URL;type=pref:www.propertyguru.com.my/property-agents/ms-oh-392138
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
